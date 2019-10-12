@@ -69,6 +69,6 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.imliujun:log:1.0.0'
+    compile 'com.github.imliujun:xlog:1.0.0'
 }
 ```
